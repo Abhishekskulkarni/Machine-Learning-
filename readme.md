@@ -1,3 +1,1 @@
-a = 1
-b = 2
-c a+b
+In this Repository i have shared my machine learning projects.
